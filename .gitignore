@@ -1,0 +1,7 @@
+cat << EOF > .gitignore
+__pycache__/
+.env
+node_modules/
+*.pyc
+dist/
+EOF
